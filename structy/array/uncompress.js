@@ -19,7 +19,6 @@ const uncompress = (s) => {
     
 };
 
-
 console.log(uncompress("2c3a1t"));   // -> 'ccaaat'
 console.log(uncompress("4s2b"));     // -> 'ssssbb'
 console.log(uncompress("2p1o5p"));   // -> 'ppoppppp'
